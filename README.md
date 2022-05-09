@@ -1,2 +1,2 @@
-# speck_implementation_c
+# speck_implementation_cpp
 My implementation of lightweight speck cipher.
